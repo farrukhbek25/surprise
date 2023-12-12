@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    background-image: url(./images/8be4efc0a8e5bc4903aae00db82cb982.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+@font-face {
+    font-family:brunoace1;
+    src: url(./fonts/BrunoAce-Regular.ttf);
+}
+
+h1{
+    font-family: brunoace1;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    background-color:green
+   
+}
+
+p{
+    font-family: Silkscreen;
+    text-align: center;
+    color:black;
+    background-color:green
+    
+}
+
+span{
+    background-color:red;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    background-color:red;
+}
+
+h2{
+    background-color:green;
+    text-transform: uppercase;
+    font-family: silkscreen;
+    text-align: center;
+}
+
+audio{
+    padding-left: 530px;
+}
+
